@@ -12,5 +12,5 @@ void UMensaje::PrintString(FString cadena, bool EnPantalla, bool EnLog, FColor C
 
 UMensaje::UMensaje()
 {
-    Tiempo = 5.0f;
+    Tiempo = 15.0f;
 }
